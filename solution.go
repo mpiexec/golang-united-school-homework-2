@@ -3,7 +3,6 @@ package square
 //package main
 
 import (
-	"fmt"
 	"math"
 )
 
